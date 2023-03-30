@@ -1,0 +1,6 @@
+projectKey=codeCover
+serverUrl=http://localhost:9050
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9050/dashboard?id=codeCover
+ceTaskId=AYcw5r_bqPuj2OBxzkiu
+ceTaskUrl=http://localhost:9050/api/ce/task?id=AYcw5r_bqPuj2OBxzkiu
